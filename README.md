@@ -14,7 +14,7 @@ In this project, we leverage the power of RoBERTa to predict sentiment labels fo
 # Installation
 To get started with this project, you need to follow these installation steps:
 
-Clone this repository: git clone [https://github.com/your-username/your-repo.git](https://github.com/AdithyaVardhanReddyM/Sentiment-Aanalysis-of-movie-reviews.git)
+Clone this repository: git clone https://github.com/AdithyaVardhanReddyM/Sentiment-Aanalysis-of-movie-reviews.git
 To perform sentiment analysis using the RoBERTa model, follow these steps:
 
 Preprocess your movie review data and ensure it is in the correct format.
