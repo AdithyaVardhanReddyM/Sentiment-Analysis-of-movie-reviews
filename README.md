@@ -1,4 +1,4 @@
-# Sentiment-Aanalysis-of-movie-reviews-with-RoBERTa
+# Sentiment-Analysis-of-movie-reviews-with-RoBERTa
 
 This project focuses on performing sentiment analysis on movie reviews using the RoBERTa model. RoBERTa is a transformer-based language model that has achieved state-of-the-art results in various natural language processing tasks.
 
